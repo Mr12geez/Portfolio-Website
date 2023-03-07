@@ -4,7 +4,7 @@ import React from 'react';
 function Footer() {
   return (
     <footer>
-      <p>This is my footer.</p>
+      <p>© 2022 CHIJIOKE OBIORAH, ALL RIGHTS RESERVED.</p>
     </footer>
   );
 }
