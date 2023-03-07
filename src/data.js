@@ -8,24 +8,24 @@ export const projects = [
     link: "https://chijiokeobiorah-hosting-website.netlify.app/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React",
+    title: "Web App",
+    subtitle: "Portfolio",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A skilled developer with an expertise in building full-stack web applications using MongoDB, Express.js, React, and Node.js, with experience in deploying and maintaining scalable solutions.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "DevChat",
-    subtitle: "React",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://chijiokeobiorah.netlify.app/",
   },
   {
     title: "Web App",
-    subtitle: "Todo List App",
+    subtitle: "Parking",
+    description:
+      "A parking app is a mobile application that allows users to find and reserve parking spaces, pay for parking, and receive notifications about their parking time.",
+    image: "./project-3.gif",
+    link: "https://chijiokeobiorah-parking-app.netlify.app/",
+  },
+  {
+    title: "Web App",
+    subtitle: "Todo List",
     description:
       "A simple todo app with the ability to add, delete, and save items. Organize tasks by category and set due dates. User-friendly interface for easy task management",
     image: "./project-4.gif",
