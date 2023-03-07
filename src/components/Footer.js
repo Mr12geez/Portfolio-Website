@@ -2,18 +2,13 @@
 import React from 'react';
 
 function Footer() {
-  const [currentYear, setCurrentYear] = useState(new Date().getFullYear());
+  const currentYear = new Date().getFullYear();
 
-  useEffect(() => {
-    setCurrentYear(new Date().getFullYear());
-  }, []);
-  
   return (
     <footer>
-      <p>© 2022 CHIJIOKE OBIORAH, ALL RIGHTS RESERVED.</p>
+      <p>Copyright © {currentYear} CHIJIOKE OBIORAH</p>
     </footer>
   );
 }
 
 export default Footer;
-
