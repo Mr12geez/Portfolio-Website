@@ -17,7 +17,7 @@ function App() {
         <h1>My Portfolio</h1>
       </header>
       <main>
-        
+        © 2022 CHIJIOKE OBIORAH, ALL RIGHTS RESERVED
       </main>
       <Footer />
     </div>
