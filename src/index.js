@@ -10,12 +10,19 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-function Footer() {
+function App() {
   return (
-    <footer>
-      <p>This is my footer.</p>
-    </footer>
+    <div className="App">
+      <header>
+        <h1>My Portfolio</h1>
+      </header>
+      <main>
+        
+      </main>
+      <Footer />
+    </div>
   );
 }
 
-export default Footer;
+export default App;
+
