@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Hosting Website",
     description:
       "Hosting website, involves in storing and serving website files on a server, making them accessible to visitors via the internet.",
-    image: "./project-1.gif",
+    image: "./project-3.gif",
     link: "https://chijiokeobiorah-hosting-website.netlify.app/",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "Parking",
     description:
       "A parking app is a mobile application that allows users to find and reserve parking spaces, pay for parking, and receive notifications about their parking time.",
-    image: "./project-3.gif",
+    image: "./project-1.gif",
     link: "https://chijiokeobiorah-parking-app.netlify.app/",
   },
   {
