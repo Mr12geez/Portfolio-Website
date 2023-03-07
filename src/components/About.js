@@ -11,7 +11,7 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-          A Skilled Wep developer passionate about creating exceptional applications with a focus on user experience and innovation. Always seeking to learn new skills and stay up-to-date with the latest industry trends.
+          A Skilled Web developer, passionate about creating exceptional applications with a focus on user experience and innovation. Always seeking to learn new skills and stay up-to-date with the latest industry trends.
           </p>
           <div className="flex justify-center">
             <a
