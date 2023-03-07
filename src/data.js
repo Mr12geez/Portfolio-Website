@@ -38,7 +38,7 @@ export const testimonials = [
     quote:
       "His dedication and expertise made all the difference in the outcome. Exceptional work!",
     image: "https://chidozietech.netlify.app/static/media/profile.2e31d66abcea2429d053.png",
-    name: "Zino Davids",
+    name: "Zeeno Davids",
     company: "Grandida",
   },
   {
