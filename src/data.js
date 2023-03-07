@@ -24,8 +24,8 @@ export const projects = [
     link: "https://reactbootcamp.com",
   },
   {
-    title: "Todo App",
-    subtitle: "Html, Css, JavaScript",
+    title: "Web App",
+    subtitle: "Todo List App",
     description:
       "A simple todo app with the ability to add, delete, and save items. Organize tasks by category and set due dates. User-friendly interface for easy task management",
     image: "./project-4.gif",
