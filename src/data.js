@@ -1,15 +1,15 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Web App",
+    subtitle: "Hosting Website",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Hosting website, involves in storing and serving website files on a server, making them accessible to visitors via the internet.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://chijiokeobiorah-hosting-website.netlify.app/",
   },
   {
     title: "React Tracks",
-    subtitle: "React and Python",
+    subtitle: "React",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-2.gif",
@@ -17,7 +17,7 @@ export const projects = [
   },
   {
     title: "DevChat",
-    subtitle: "React and Firebase",
+    subtitle: "React",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-3.gif",
@@ -36,7 +36,7 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "He brings his 'A' game. Highly recommend!",
+      "His dedication and expertise made all the difference in the outcome. Exceptional work!",
     image: "https://chidozietech.netlify.app/static/media/profile.2e31d66abcea2429d053.png",
     name: "Zino Davids",
     company: "Grandida",
