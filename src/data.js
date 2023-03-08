@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "Portfolio",
     description:
       "A skilled developer with an expertise in building full-stack web applications using MongoDB, Express.js, React, and Node.js, with experience in deploying and maintaining scalable solutions.",
-    image: "./project-2.gif",
+    image: "./project-1.gif",
     link: "https://chijiokeobiorah.netlify.app/",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "Parking",
     description:
       "A parking app is a mobile application that allows users to find and reserve parking spaces, pay for parking, and receive notifications about their parking time.",
-    image: "./project-1.gif",
+    image: "./project-2.gif",
     link: "https://chijiokeobiorah-parking-app.netlify.app/",
   },
   {
