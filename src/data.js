@@ -4,14 +4,14 @@ export const projects = [
     subtitle: "Hosting Website",
     description:
       "Hosting website, involves in storing and serving website files on a server, making them accessible to visitors via the internet.",
-    image: "./project-3.gif",
+    image: "./project-4.gif",
     link: "https://chijiokeobiorah-hosting-website.netlify.app/",
   },
   {
     title: "Web App",
     subtitle: "Portfolio",
     description:
-      "A skilled developer with an expertise in building full-stack web applications using MongoDB, Express.js, React, and Node.js, with experience in deploying and maintaining scalable solutions.",
+      "Experienced developer proficient in MERN stack, skilled in creating scalable and maintainable web applications through efficient deployment and management.",
     image: "./project-1.gif",
     link: "https://chijiokeobiorah.netlify.app/",
   },
@@ -27,8 +27,8 @@ export const projects = [
     title: "Web App",
     subtitle: "Todo List",
     description:
-      "A simple todo app with the ability to add, delete, and save items. Organize tasks by category and set due dates. User-friendly interface for easy task management",
-    image: "./project-4.gif",
+      "A todo app with the ability to add, delete, and save items. Organize tasks by category and set due dates. User-friendly interface for easy task management",
+    image: "./project-3.gif",
     link: "https://chijiokeobiorah-todo-app.netlify.app/",
   },
 ];
