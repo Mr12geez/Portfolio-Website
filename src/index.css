@@ -3,20 +3,14 @@
 @tailwind utilities;
 
 .container {
-  margin-top: 20px;
-  padding: 20px;
+  margin-top: 30px;
+  padding: 30px;
 }
 
 .paragraph {
-  padding: 20px;
+  padding: 30px;
 }
 
 .button {
-  padding: 20px;
-}
-
-.footer {
-  margin-top: 50px;
-  margin-bottom: 50px;
-  padding: 20px;
+  padding: 300px;
 }
