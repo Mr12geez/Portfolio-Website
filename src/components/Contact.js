@@ -45,16 +45,16 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                Paces Ferry Rd. <br />
+               West Paces Ferry Road. <br />
                 Atlanta, GA 30327
               </p>
             </div>
-            <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
+            <div className="lg:w-1/2 px-4 mt-4 lg:mt-0">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
               <a className="text-green-400 leading-relaxed">
-               geezmoment@gmail.com
+               chijiokeobiorah91@gmail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
