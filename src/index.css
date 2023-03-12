@@ -3,7 +3,6 @@
 @tailwind utilities;
 
 .container {
-  margin-top: 30px;
   padding: 30px;
 }
 
@@ -12,5 +11,5 @@
 }
 
 .button {
-  padding: 300px;
+  padding: 30px;
 }
