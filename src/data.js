@@ -54,7 +54,9 @@ export const skills = [
   "JavaScript",
   "React",
   "Html-5",
+  "Css"
   "Node.Js",
+  "Next.Js
   "Express.Js",
   "Git",
 ];
