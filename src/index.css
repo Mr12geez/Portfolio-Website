@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.footer-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
