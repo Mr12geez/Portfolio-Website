@@ -11,7 +11,7 @@ export const projects = [
     title: "Web App",
     subtitle: "Portfolio",
     description:
-      "Experienced developer proficient in MERN stack, skilled in creating scalable and maintainable web applications through efficient deployment and management.",
+      "Experienced web developer proficient in MERN stack, skilled in creating scalable and maintainable web applications through efficient deployment and management.",
     image: "./project-1.gif",
     link: "https://chijiokeobiorah.netlify.app/",
   },
@@ -19,7 +19,7 @@ export const projects = [
     title: "Web App",
     subtitle: "Parking",
     description:
-      "A parking app is a mobile application that allows users to find and reserve parking spaces, pay for parking, and receive notifications about their parking time.",
+      "A Parking mobile application that allows users to find and reserve parking spaces, pay for parking, and receive notifications about their parking time.",
     image: "./project-2.gif",
     link: "https://chijiokeobiorah-parking-app.netlify.app/",
   },
