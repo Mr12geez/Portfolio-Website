@@ -45,7 +45,7 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-               West Paces Ferry Road. <br />
+               <br />
                 Atlanta, GA 30327
               </p>
             </div>
@@ -54,12 +54,12 @@ export default function Contact() {
                 EMAIL
               </h2>
               <a className="text-green-400 leading-relaxed">
-               chijiokeobiorah91@gmail.com
+               geezmoment@gmail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
-              <p className="leading-relaxed">1112223333</p>
+              <p className="leading-relaxed">4784441522</p>
             </div>
           </div>
         </div>
