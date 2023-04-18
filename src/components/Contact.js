@@ -46,7 +46,7 @@ export default function Contact() {
               </h2>
               <p className="mt-1">
                <br />
-                Atlanta, GA 30327
+                Atlanta georgia, USA
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
@@ -59,7 +59,7 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
-              <p className="leading-relaxed">4784441522</p>
+              <p className="leading-relaxed">+1 478-444-1522</p>
             </div>
           </div>
         </div>
