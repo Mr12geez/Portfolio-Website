@@ -6,9 +6,8 @@ export default function About() {
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-            Hi, I'm Chijioke.
-            <br className="hidden lg:inline-block" />
-    Full Stack Web Developer || Aws Solution Architect || AI Enthusiast || Fashion Enthusiast
+            Hi, I'm Chijioke,
+            <br className="hidden lg:inline-block" /> Full Stack Web Developer | Aws Solution Architect | AI Enthusiast | Fashion Enthusiast
           </h1>
           <p className="mb-8 leading-relaxed">
           A skilled web developer / solution architect, passionate about creating exceptional applications with a focus on user experience and innovation, also implementing cloud based solutions, architecting, optimizing infrastructure and migration strategies. Always seeking to learn new skills and stay up-to-date with the latest industry trends.
