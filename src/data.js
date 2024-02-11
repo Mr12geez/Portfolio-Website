@@ -12,15 +12,15 @@ export const projects = [
     subtitle: "Portfolio",
     description:
       "Experienced web developer proficient in MERN stack, skilled in creating scalable and maintainable web applications through efficient deployment and management.",
-    image: "./project-1.gif",
+    image: "https://images.unsplash.com/photo-1706460257771-b1c110b09b23?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     link: "https://chijiokeobiorah.netlify.app/",
   },
   {
     title: "Web App",
-    subtitle: "Parking",
+    subtitle: "Parking App",
     description:
       "A Parking mobile application that allows users to find and reserve parking spaces, pay for parking, and receive notifications about their parking time.",
-    image: "./project-2.gif",
+    image: "https://images.unsplash.com/photo-1666350773137-cbc310aaf909?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     link: "https://chijiokeobiorah-parking-app.netlify.app/",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "Todo List",
     description:
       "A todo app with the ability to add, delete, and save items. Organize tasks by category and set due dates. User-friendly interface for easy task management",
-    image: "./project-3.gif",
+    image: "https://images.unsplash.com/photo-1682268022348-387baf70cf4d?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     link: "https://chijiokeobiorah-todo-app.netlify.app/",
   },
 ];
