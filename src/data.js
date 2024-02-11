@@ -17,7 +17,7 @@ export const projects = [
   },
   {
     title: "Web App",
-    subtitle: "Parking App",
+    subtitle: "Parking",
     description:
       "A Parking mobile application that allows users to find and reserve parking spaces, pay for parking, and receive notifications about their parking time.",
     image: "https://images.unsplash.com/photo-1666350773137-cbc310aaf909?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
