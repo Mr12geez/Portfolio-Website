@@ -44,7 +44,7 @@ export const testimonials = [
   {
     quote:
       "i Highly recommend him, he understands the importance of quality digital products for business and possesses necessary skills. it was a Pleasure to work with him",
-    image: "https://media.licdn.com/dms/image/C5603AQEaKvk_AphHCA/profile-displayphoto-shrink_200_200/0/1653327190546?e=1683763200&v=beta&t=tuuSKTS11Havwj-RPbR6-ULGY8SyvcV57yfwszS4Gpg",
+    image: "https://media.licdn.com/dms/image/C5603AQEaKvk_AphHCA/profile-displayphoto-shrink_800_800/0/1653327191513?e=1713398400&v=beta&t=wC8lGCsYGVUTEZxcyPmumw97LRfgfBMLhiJlCAEVc3g",
     name: "Mr Marquinhos",
     company: "Caterpillar Inc",
   },
